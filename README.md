@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ginaiscoding
-- 👀 I’m interested in iOS Development 
-- 👩‍💻 I’m currently learning Swift and SwiftUI
+- 👀 I’m interested in iOS Development and Data Engineering 
+- 👩‍💻 I’m currently learning Swift, Python, and everyting Data! 
 - 📫 How to reach me: ginaiscoding@gmail.com
 
 <!---
